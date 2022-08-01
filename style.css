@@ -3,8 +3,7 @@ html{
 }
 #interface{
   text-align: center;
-  width: 345px;
-  height: 250px;
+  width: 100%;
   background-color: green;
   border: 10px solid;
   border-radius: 30px;
